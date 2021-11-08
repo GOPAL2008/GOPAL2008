@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GOPAL2008
+- 👋 Hi, I’m Sankalp Awasthi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on FEARY fridays project
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on MAHABHARAT Battle royale game project
 - 📫 How to reach me on my email- mahabharatofficial2021@gmail.com
 
 <!---
